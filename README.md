@@ -5,7 +5,7 @@
 
 The Bank Management System is a Python-based application designed to manage basic banking operations efficiently. It allows users to create bank accounts, deposit and withdraw money, check account balances, and view transaction history
 
-The project uses Object-Oriented Programming (OOP) concepts and database operations to maintain organized account information and perform banking transactions.
+The project uses Object-Oriented Programming (OOP) concepts 
 
 ✨ Features
 
@@ -28,7 +28,3 @@ Input Validation: Handle invalid amounts and banking operations.
 Python
 
 Object-Oriented Programming (OOP)
-
-SQL / Database Management
-
-Exception Handling
